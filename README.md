@@ -1,5 +1,7 @@
 
 ## STUDY
+👉CS
+- [자료구조](https://ventus.tistory.com/16)
 
 👉PYTHON
 - [수 자료형](https://ventus.tistory.com/3)
