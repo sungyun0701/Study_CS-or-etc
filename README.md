@@ -2,7 +2,7 @@
 ## STUDY
 
 :PYTHON
-- **[거품 정렬(Bubble Sort)]**(https://ventus.tistory.com/3)
-- [거품 정렬(Bubble Sort)](https://ventus.tistory.com/3)
+- [수 자료형](https://ventus.tistory.com/3)
+- [리스트](https://ventus.tistory.com/4)
 
 <br>
