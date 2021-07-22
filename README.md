@@ -2,7 +2,7 @@
 # STUDY_CS
 ## 👉CS
 - [자료구조](https://ventus.tistory.com/16)
-- <br>
+- [2진법과 정보의 표현](https://ventus.tistory.com/19)<br>
 <br>  
 
 # STUDY_Hacking
